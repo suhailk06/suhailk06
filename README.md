@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm KANAMUKKALA SUHAIL</h1>
-<h3 align="center">Machine Learning Enthusiast • Full Stack Developer</h3>
+<h3 align="center">Machine Learning Enthusiast • Python Full Stack Developer</h3>
 <p align="center">Bachelor of Technology in CSE (AI&ML) Mahatma Gandhi Institute of Technology </p>
 
 <h1 align="center">
