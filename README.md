@@ -6,11 +6,11 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Arcade.exe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <!-- Gamer avatar / banner -->
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="120" />
+
 
 ### `> PLAYER PROFILE: [YOUR_NAME]`
 
