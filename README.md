@@ -6,7 +6,7 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=PLAYER+1+HAS+ENTERED+THE+GAME;Welcome+to+my+GitHub+Arcade;Press+START+to+continue...;%3E+Loading+CSE+Student.exe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Arcade.exe" alt="Typing SVG" />
 </a>
 
 <!-- Gamer avatar / banner -->
