@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PLAYER PROFILE LOADED                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--
-**suhailk06/suhailk06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- Animated typing header -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=PLAYER+1+HAS+ENTERED+THE+GAME;Welcome+to+my+GitHub+Arcade;Press+START+to+continue...;%3E+Loading+CSE+Student.exe" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Gamer avatar / banner -->
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="120" />
+
+### `> PLAYER PROFILE: [YOUR_NAME]`
+
+**🎮 Class:** `CSE Student` &nbsp;|&nbsp; **⚔️ Level:** `[YEAR] Year` &nbsp;|&nbsp; **🏆 Rank:** `Code Warrior`
+**❤️ HP:** `100/100` &nbsp;|&nbsp; **⚡ XP:** `∞` &nbsp;|&nbsp; **🌍 Server:** `India`
+
+</div>
+
+---
+
+## 🕹️ `> SELECT YOUR CHARACTER`
+
+```yaml
+Name:        [Your Name]
+Alias:       [Your Gamer Tag / Handle]
+Class:       Computer Science Engineer
+Guild:       [Your College Name]
+Main Quest:  B.Tech CSE
+Difficulty:  Nightmare Mode 🔥
+Status:      ● ONLINE
