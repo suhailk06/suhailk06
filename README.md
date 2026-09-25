@@ -79,7 +79,7 @@ Python Django developer with hands-on experience building full-stack web applica
 ---
 
 ### Projects
-# DOT CHAT || Real-Time Chat Messenger || <a href="https://github.com/suhailk06/Real_Time_Chat_Messenger">GitHub Link</a>
+# DOT CHAT || Real-Time Chat Messenger || <a href="https://github.com/suhailk06/Real_Time_Chat_Messenger">GitHub Link</a> || <a href="https://dot-chat-project.vercel.app/">Deployment Link</a>
 
 A Django-based real-time chat platform with user authentication, 
 friend management, profiles, and instant messaging.
