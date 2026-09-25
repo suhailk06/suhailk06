@@ -78,13 +78,12 @@ Python Django developer with hands-on experience building full-stack web applica
 
 ---
 
-### 🚀 Featured Projects
+###Projects
+# DOT CHAT || Real-Time Chat Messenger || <a href="https://github.com/suhailk06/Real_Time_Chat_Messenger">GitHub Link</a>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Project 1**](https://github.com/YOUR_USERNAME/project1) | Short description of what it does | React, Node |
-| [**Project 2**](https://github.com/YOUR_USERNAME/project2) | Short description of what it does | Python, Flask |
-| [**Project 3**](https://github.com/YOUR_USERNAME/project3) | Short description of what it does | HTML, CSS, JS |
+A Django-based real-time chat platform with user authentication, 
+friend management, profiles, and instant messaging.
+
 
 ---
 
