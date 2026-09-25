@@ -38,13 +38,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Python Django developer with hands-on experience building full-stack web applications using Django, PostgreSQL, and REST APIs. Solved 250+ DSA problems on LeetCode and certified in Django Full Stack. Currently pursuing B.Tech in CSE (AI & ML), seeking a full-time Python/Django Developer role to build scalable, impactful web applications.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -78,7 +78,7 @@ Python Django developer with hands-on experience building full-stack web applica
 
 ---
 
-###Projects
+### Projects
 # DOT CHAT || Real-Time Chat Messenger || <a href="https://github.com/suhailk06/Real_Time_Chat_Messenger">GitHub Link</a>
 
 A Django-based real-time chat platform with user authentication, 
