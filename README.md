@@ -28,10 +28,11 @@
   <a href="https://github.com/suhailk06" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-grey" />
   </a>
-    <a href="https://github.com/suhailk06" target="_blank">
+    <a href="https://raw.githubusercontent.com/suhailk06/MyPortfolio/main/suhail_resume.pdf" 
+   download="suhail_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-yellow" />
   </a>
-    <a href="https://github.com/suhailk06" target="_blank">
+    <a href="https://suhailk06.github.io/MyPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-green" />
   </a>
 </p>
