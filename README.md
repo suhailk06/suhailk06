@@ -85,7 +85,7 @@ Python Django developer with hands-on experience building full-stack web applica
 A Django-based real-time chat platform with user authentication, 
 friend management, profiles, and instant messaging.
 
-
+# Bhagavad Gita Real Life Situation Solution Finder || <a href="https://github.com/suhailk06/Bhagavad-Gita-Real-Life-Situation-Solution-Finder">GitHub Link</a> 
 ---
 
 
